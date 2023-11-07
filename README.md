@@ -1,14 +1,14 @@
 # Olá, me chamo Ana! :)
 
-#### Atuando como Analista de Testes, estou sempre em busca de garantir que os sistemas possam atender altos padrões de qualidade.
+Atuando como Analista de Testes, estou sempre em busca de garantir que os sistemas possam atender altos padrões de qualidade.
 
  <img src="octocat-1694227764426.png" width="200" />
 
 ### Sobre 
 
-###### - 👩🏻‍💻 Early Associete, Test Analyst.
+ - 👩🏻‍💻 Early Associete, Test Analyst.
 
-###### - 📚 Cursando o 6º semestre em Análise e Desenvolvimento de Sistemas.
+ - 📚 Cursando o 6º semestre em Análise e Desenvolvimento de Sistemas.
 
 ### Você também pode me encontrar aqui:
 
