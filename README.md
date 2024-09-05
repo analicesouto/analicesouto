@@ -6,9 +6,9 @@ Atuando como Analista de Testes, estou sempre em busca de garantir que os sistem
 
 ### Sobre 
 
- - 👩🏻‍💻 Early Associete, Test Analyst.
+ - 👩🏻‍💻 Quality Assurance/Test Analyst.
 
- - 📚 Cursando o 7º semestre em Análise e Desenvolvimento de Sistemas.
+ - 📚 Cursando o 8º semestre em Análise e Desenvolvimento de Sistemas.
 
 ### Você também pode me encontrar aqui:
 
