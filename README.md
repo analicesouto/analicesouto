@@ -1,16 +1,16 @@
-# Olá, me chamo Ana! :)
+# Hello, my name is Ana! :)
 
-Atuando como Analista de Testes, estou sempre em busca de garantir que os sistemas possam atender altos padrões de qualidade.
+Working as a Test Analyst, I am always seeking to ensure that systems meet high standards of quality.
 
  <img src="octocat-1694227764426.png" width="200" />
 
-### Sobre 
+ ### About 
 
  - 👩🏻‍💻 Quality Assurance/Test Analyst.
 
- - 📚 Cursando o 8º semestre em Análise e Desenvolvimento de Sistemas.
+ - 📚 Systems Analyst.
 
-### Você também pode me encontrar aqui:
+### You can also find me here:
 
 <div>
 <a href="https://instagram.com/_analicesouto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
