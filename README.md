@@ -6,9 +6,7 @@ Working as a Test Analyst, I am always seeking to ensure that systems meet high 
 
  ### About 
 
- - 👩🏻‍💻 Quality Assurance/Test Analyst.
-
- - 📚 Systems Analyst.
+ - 👩🏻‍💻 Systems Analyst.
 
 ### You can also find me here:
 
