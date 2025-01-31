@@ -7,6 +7,7 @@ Working as a Test Analyst, I am always seeking to ensure that systems meet high 
  ### About 
 
  - 👩🏻‍💻 Systems Analyst.
+ - 👩 Jr. Software Test Analyst
 
 ### You can also find me here:
 
