@@ -6,11 +6,26 @@ Working as a Test Analyst, I am always seeking to ensure that systems meet high 
 
  ### About 
 
- - 👩🏻‍💻 Systems Analyst.
+ - 👩🏻‍💻 Graduated in Analysis and Systems Development.
 
-### You can also find me here:
+ ### Education
+ - **Faculdade de Tecnologia de São Paulo (FATECSP)**  
+  Technologist in Systems Analysis and Development
+
+ ### Work Experience
+ - **Jr. Software Test Analyst | Viveo**  
+  January 2025 – Present
+
+ - **Associate Test Analyst - QA |  IBM Brasil**  
+  September 2022 – August 2024
+
+ - **System Assistant | IMMB**  
+  December 2021 – September 2022
+
+ ### You can also find me here:
 
 <div>
 <a href = "mailto:analicesantossouto@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/analicesouto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
