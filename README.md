@@ -7,10 +7,15 @@ Working as a Test Analyst, I am always seeking to ensure that systems meet high 
  ### About 
 
  - 👩🏻‍💻 Graduated in Analysis and Systems Development.
+ - Test Analyst Jr.
+ - Currently pursuing a Graduate Certificate in Information Technology and Systems
 
  ### Education
  - **Faculdade de Tecnologia de São Paulo (FATECSP)**  
   Technologist in Systems Analysis and Development
+
+ - **Universidade Federal do ABC - UFABC**
+ - Graduate Certificate in Information Technology and Systems
 
  ### Work Experience
  - **Jr. Software Test Analyst | Viveo**  
