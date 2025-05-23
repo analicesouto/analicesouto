@@ -14,8 +14,8 @@ Working as a Test Analyst, I am always seeking to ensure that systems meet high 
  - **Faculdade de Tecnologia de São Paulo (FATECSP)**  
   Technologist in Systems Analysis and Development
 
- - **Universidade Federal do ABC - UFABC**
-   Graduate Certificate in Information Technology and Systems
+ - **Universidade Federal do ABC - UFABC**  
+  Graduate Certificate in Information Technology and Systems
 
  ### Work Experience
  - **Jr. Software Test Analyst | Viveo**  
